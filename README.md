@@ -34,9 +34,11 @@ A continuación se muestra el resultado final del diseño en diferentes formatos
 *La página presenta una estructura clara con un menú de navegación superior y secciones bien diferenciadas.*
 
 ### Vista Adaptada (Móvil)
-![Captura móvil 1](movil1.png)
-![Captura móvil 2](movil2.png)
-![Captura móvil 3](movil3.png)
+
+| Inicio | Clases y Horario | Contacto |
+| :---: | :---: | :---: |
+| ![Móvil 1](movil1.png) | ![Móvil 2](movil2.png) | ![Móvil 3](movil3.png) |
+
 *El diseño se ajusta verticalmente para facilitar la lectura y el uso en teléfonos inteligentes.*
 
 ---
