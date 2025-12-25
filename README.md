@@ -28,16 +28,16 @@ Para la realización de este proyecto se tomaron las siguientes decisiones:
 A continuación se muestra el resultado final del diseño en diferentes formatos:
 
 ### Vista de Escritorio
-![Captura de escritorio 1](escritorio1.png)
-![Captura de escritorio 2](escritorio2.png)
-![Captura de escritorio 3](escritorio3.png)
+![Captura de escritorio 1](escritorio/escritorio1.png)
+![Captura de escritorio 2](escritorio/escritorio2.png)
+![Captura de escritorio 3](escritorio/escritorio3.png)
 *La página presenta una estructura clara con un menú de navegación superior y secciones bien diferenciadas.*
 
 ### Vista Adaptada (Móvil)
 
 | Inicio | Clases y Horario | Contacto |
 | :---: | :---: | :---: |
-| ![Móvil 1](movil1.png) | ![Móvil 2](movil2.png) | ![Móvil 3](movil3.png) |
+| ![Móvil 1](movil/movil1.png) | ![Móvil 2](movil/movil2.png) | ![Móvil 3](movil/movil3.png) |
 
 *El diseño se ajusta verticalmente para facilitar la lectura y el uso en teléfonos inteligentes.*
 
